@@ -21,7 +21,7 @@
 
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Ofek Cohen2"
+		   text="Ofek Cohen"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
